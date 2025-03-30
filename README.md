@@ -49,10 +49,7 @@ Due to several issues, including a damaged personal computer and tight time cons
 
 ### Notes
 
-* The API's only running on this computer, so it won't work for anyone else.
-* I'm using Netlify to show the Angular app, but it needs the API running on this machine.
-* This isn't how you'd set this up for real.
-* Due to a damaged personal computer, limited access to this machine (my uncle's), and only having about 5-6 hours total to work on this, I didn't have time or a way to pay for cloud services. This is just a quick demo.
+* Due to a damaged to my personal computer, limited access to this machine (my uncle's), and only having about 5-6 hours total to work on this, I didn't have time or a way to pay for cloud services. This is just a quick demo.
 
 ## Contact
 

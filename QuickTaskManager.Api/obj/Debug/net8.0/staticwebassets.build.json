@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eZBetW34WW47r28r3Q4qJJj1k9jXvtNVbdMfC1n44Jo=",
+  "Source": "QuickTaskManager.Api",
+  "BasePath": "_content/QuickTaskManager.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
